@@ -36,6 +36,7 @@ We encourage you to browse through these, and to ask a lead if you'd like to lea
 - [1.1 Java Basics](Docs/1_General/1.1_Java.md)
 - [1.2 Git Basics](Docs/1_General/1.2_BasicGit.md)
 - [1.3 Team Git Workflow](Docs/1_General/1.3_GitWorkflow.md)
+- [1.4 Reading List](Docs/1_General/1.4_ReadingList.md)
 
 ### Architecture
 
