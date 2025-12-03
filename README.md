@@ -27,7 +27,7 @@ Once you complete them, show a lead or mentor to get checked off as having compl
 The Examples folder contains full code for the kitbot demos.
 
 The Stage-3-Writeups folder contains various writeups from team members about specific subjects, particularly offseason projects and other "research".
-We encourage you to browse through these, and to ask a lead if you'd like to learn more!
+We encourage you to browse through these, and to ask a mentor if you'd like to learn more!
 
 ## Docs
 
