@@ -12,8 +12,9 @@ public class Debug1 {
      * 
      */
     public static void main(String[] args) {
-        String name; 
-
+       
+        String name = "Oliver"; 
+        
         System.out.println("Hi! My name is " + name + " and it has " + name.length() + " characters. "); 
     }
 }
