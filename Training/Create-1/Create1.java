@@ -9,5 +9,6 @@ public class Create1 {
     }
     public static void main(String[] args) {
         System.out.println(addition(1, 5));
+        //replace the two numbers there with the numbers to add
     }
 }
